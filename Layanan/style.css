@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h2, h3 {
+    color: #004080;
+}
+.checkbox-container {
+    margin-left: 20px;
+}
+.question {
+    margin-bottom: 20px;
+}
+.container-red {
+    background-color: #FF5733; /* Warna merah oranye */
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
